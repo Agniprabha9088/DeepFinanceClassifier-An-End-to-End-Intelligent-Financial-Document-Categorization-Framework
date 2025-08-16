@@ -132,7 +132,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 * **Model Export**: Trained model saved for inference
 * **App Development**: Streamlit-based UI for document upload & prediction
-* **Hugging Face Spaces Deployment**: [Try the App Here](https://huggingface.co/spaces/gopiashokan/Financial-Document-Classification)
+* **Hugging Face Spaces Deployment**: 
 
 ---
 
