@@ -1,4 +1,4 @@
-# 🚀 Introducing DeepFinanceClassifier: An End-to-End Financial Document Classification System
+# 🚀 Introducing DeepFinanceClassifier: An-End-to-End-Intelligent-Financial-Document-Categorization-Framework
 
 ## 🌟 Overview
 
