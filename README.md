@@ -22,7 +22,6 @@ Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)
 * [References](#-references)
 * [Contributing](#-contributing)
 * [License](#-license)
-* [Contact](#-contact)
 
 ---
 
