@@ -5,7 +5,7 @@
 Managing financial documents such as **Balance Sheets**, **Cash Flow Statements**, **Income Statements**, **Notes**, and **Other Documents** manually can be tedious, error-prone, and time-intensive.
 **DeepFinanceClassifier** solves this challenge by leveraging **Deep Learning** and **Natural Language Processing (NLP)** to **automatically classify financial documents** with remarkable accuracy.
 
-Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)** architecture, this system delivers **96.2% accuracy** while offering a **Streamlit-powered interface** for seamless document analysis. The solution is further **deployed on Hugging Face Spaces**, making it easily accessible for real-world usage.
+Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)** architecture, this system delivers **approximately 96 accuracy** while offering a **Streamlit-powered interface** for seamless document analysis. The solution is further **deployed on Hugging Face Spaces**, making it easily accessible for real-world usage.
 
 ---
 
@@ -22,7 +22,6 @@ Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)
 * [References](#-references)
 * [Contributing](#-contributing)
 * [License](#-license)
-* [Contact](#-contact)
 
 ---
 
@@ -87,7 +86,6 @@ pip install tensorflow==2.12.0 --upgrade
   * Income Statements
   * Notes
   * Others
-* Dataset available here: [Download Link](https://drive.google.com/file/d/1yj_ucy-VuX7fjKAQsR23ViTc-odb-eD-/view)
 
 ### 🔧 Data Preprocessing
 
