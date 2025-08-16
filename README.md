@@ -5,7 +5,7 @@
 Managing financial documents such as **Balance Sheets**, **Cash Flow Statements**, **Income Statements**, **Notes**, and **Other Documents** manually can be tedious, error-prone, and time-intensive.
 **DeepFinanceClassifier** solves this challenge by leveraging **Deep Learning** and **Natural Language Processing (NLP)** to **automatically classify financial documents** with remarkable accuracy.
 
-Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)** architecture, this system delivers **approximately 96% accuracy** while offering a **Streamlit-powered interface** for seamless document analysis. The solution is further **deployed on Hugging Face Spaces**, integrating advanced NLP preprocessing (**HTML parsing**, **tokenization**, **lemmatization**, **Word2Vec embeddings**) and **dataset balancing** (**SMOTETomek**) to deliver real-time, user-friendly financial document classification with high robustness and scalability,making it easily accessible for real-world usage.
+Built with **TensorFlow** and a **Bidirectional Long Short-Term Memory (Bi-LSTM)** architecture, this system delivers **approximately 96% accuracy** while offering a **Streamlit-powered interface** for seamless document analysis. The solution is further **deployed on Hugging Face Spaces**, integrating advanced NLP preprocessing (**HTML parsing**, **tokenization**, **lemmatization**, **Word2Vec embeddings**) and **dataset balancing** (**SMOTETomek**) to deliver real-time, user-friendly financial document classification with high robustness and scalability, making it easily accessible for real-world usage.
 
 ---
 
